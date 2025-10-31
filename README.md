@@ -2,7 +2,7 @@
 
 # printyl
 
-**Printyl** is MX keycaps which optimized for fdm printers, inspired on keywell(dactyl). Works best with MX switches.
+**printyl** is MX keycaps which optimized for fdm printers, inspired on keywell(dactyl). Works best with MX switches.
 
 
 
