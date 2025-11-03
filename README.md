@@ -16,6 +16,8 @@ print things in the folder "withSupports" or "printingSet", and please tear off 
 
 * **225**: 22.5 degree profile key
 
+* **22515left&22515right**: tilted 15 degree left&right from 225
+
 
 
 In printingSet folder, there's the set of a columns and thumb clusters. print which you want.
@@ -31,6 +33,8 @@ In printingSet folder, there's the set of a columns and thumb clusters. print wh
 - **4col+1tact** contains 75, 75tact, and two 225
 
 - **3thumb+1tact** contains 7515left, 7515right, 75, and 75tact
+
+- **4col15** contains 7515left, 7515right, 22515left, and 22515right
 
 
 
