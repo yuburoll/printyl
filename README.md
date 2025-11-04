@@ -20,7 +20,7 @@ print things in the folder "withSupports" or "printingSet", and please tear off 
 
 
 
-In printingSet folder, there's the set of a columns and thumb clusters. print which you want.
+In printingSet folder, there's the set of columns and thumb clusters. print which you want.
 
 - **3col** contains two 75 and one 225
 
