@@ -12,11 +12,17 @@ print things in the folder "withSupports" or "printingSet", and please tear off 
 
 * **75tact**: 75 with tactile points
 
-* **7515left&7515right**: tilted 15 degree left&right from 75
+* **75side15left&right**: tilted 15 degree left&right from 75
+
+* **75side75left&right**: tilted 7.5 degree left&right from 75
+
+* **75side225left&right**: tilted 22.5 degree left&right from 75
 
 * **225**: 22.5 degree profile key
 
-* **22515left&22515right**: tilted 15 degree left&right from 225
+* **225side15left&right**: tilted 15 degree left&right from 25
+
+* **225side75left&right**: tilted 7.5 degree left&right from 225
 
 
 
@@ -26,15 +32,21 @@ In printingSet folder, there's the set of columns and thumb clusters. print whic
 
 - **3col+1tact** contains 75, 75tact, and 225
 
-- **3thumb+1tact** contains 7515left, 7515right, and 75tact
+- **3thumb+1tact** contains 75side15left, 75side15right, and 75tact
 
 - **4col** contains two 75 and two 225
 
 - **4col+1tact** contains 75, 75tact, and two 225
 
-- **3thumb+1tact** contains 7515left, 7515right, 75, and 75tact
+- **3thumb+1tact** contains 75side15left, 75side15right, 75, and 75tact
 
-- **4col15** contains 7515left, 7515right, 22515left, and 22515right
+- **4col15** contains 75side15left, 75side15right, 225side15left, and 225side15right
+
+- **4thumbSide** contains 75side75left, 75side75right, 75side225left, and 75side225right  
+
+- **2thumbSide** contains 75side75left and 75side75right
+
+- **2thumbUp** contains 75side225left and 75side225right 
 
 
 
