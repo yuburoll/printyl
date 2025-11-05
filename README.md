@@ -24,7 +24,7 @@ print things in the folder "withSupports" or "printingSet", and please tear off 
 
 * **225side75left&right**: tilted 7.5 degree left&right from 225
 
-If you properly print keys well, keys will tilted 7.5 degrees(-22.5 to 22.5, 5 to 7 level) in x axis, and tilted in 15 degrees (-22.5 to 22.5, 4 level) in y axis.
+If you properly print keys well, keys will tilted 7.5 degrees(-22.5 to 22.5, 5 to 7 levels) in x axis, and tilted in 15 degrees(-22.5 to 22.5, 4 levels) in y axis.
 
 In printingSet folder, there's the set of columns and thumb clusters. print which you want.
 
